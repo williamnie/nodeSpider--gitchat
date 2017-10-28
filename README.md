@@ -4,3 +4,11 @@ gitchat讲解node爬虫简单demo
 
 
 如有问题,请在issue里面提出,欢迎交流,爬虫之路甚远,仍需努力!
+
+运行环境:nodejs 8.7
+
+如想使用,请下载代码,解压
+ 执行 npm install
+ 执行 node app.js
+ 
+ 
