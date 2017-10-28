@@ -11,6 +11,7 @@ gitchat讲解node爬虫简单demo
 运行环境:nodejs 8.7
 
 如想使用,请下载代码,解压
+
  执行 npm install
  
  执行 node app.js
